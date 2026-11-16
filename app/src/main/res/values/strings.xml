@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Параметры окружности</string>
+    <string name="title">Параметры окружности</string>
+    <string name="radius_hint">Радиус окружности</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="diameter_placeholder">Диаметр: —</string>
+    <string name="length_placeholder">Длина окружности: —</string>
+    <string name="area_placeholder">Площадь окружности: —</string>
+    <string name="diameter_result">Диаметр: %1$s</string>
+    <string name="length_result">Длина окружности: %1$s</string>
+    <string name="area_result">Площадь окружности: %1$s</string>
+    <string name="error_empty">Введите радиус</string>
+    <string name="error_format">Введите корректное число</string>
+    <string name="error_range">Радиус должен быть больше нуля</string>
+    <string name="error_large">Слишком большое число</string>
+</resources>

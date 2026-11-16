@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background">#121212</color>
+    <color name="text_primary">#F1F3F4</color>
+    <color name="text_secondary">#AEB4BA</color>
+    <color name="circle_blue">#90CAF9</color>
+</resources>
